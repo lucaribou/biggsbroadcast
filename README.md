@@ -8,4 +8,5 @@ Scripts used for broadcasting a video to Steam
 
 1. Install ffmpeg
 1. Put the scripts in your home directory
+1. `chmod +x` on all the scripts
 1. Configure your crontab with the file in this repo : `crontab -e`
